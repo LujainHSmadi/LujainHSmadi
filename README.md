@@ -16,6 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lujain smadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lujain smadi" height="30" width="40" /></a>
+<a href="https://kaggle.com/lujainsmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lujainsmadi" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/lujain.hamed.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lujain.hamed.16/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@lujain_masters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@lujain_masters" height="30" width="40" /></a>
+<a href="https://discord.gg/#0253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0253" height="30" width="40" /></a>
 </p>
 
 <table style="border: 3px groove rgb(56, 74, 209);">
