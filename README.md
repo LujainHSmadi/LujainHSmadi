@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9205
-Fork on GitHub
-2061
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Lujain Hamed Al-Smadi</h1>
 <h3 align="center">A passionate Full-Stack developer from Jordan</h3>
 
