@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Vollkorn&size=30&duration=5018&color=43DAF0&lines=Hi+%F0%9F%91%8B%2C+I'm+Lujain++H+Al-Smadi;A+passionate+Full-Stack+developer+from+Jordan)](https://git.io/typing-svg"  style="max-width: 100%;"></p>
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Vollkorn&size=30&color=5DDBFF&lines=Hi+%F0%9F%91%8B%2C+I'm+Lujain++H+Al-Smadi;Full-Stack+developer;+From+Jordan.."  style="max-width: 100%;"></p>
 <!-- <h1 align="center">Hi 👋, I'm Lujain Hamed Al-Smadi</h1> -->
 <!-- <h3 align="center">A passionate Full-Stack developer from Jordan</h3> -->
 <p align="center">
