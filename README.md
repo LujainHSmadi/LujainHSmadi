@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lujain Hamed Al-Smadi</h1>
-<h3 align="center">A passionate Full-Stack developer from Jordan</h3>
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Vollkorn&size=30&duration=5018&color=43DAF0&lines=Hi+%F0%9F%91%8B%2C+I'm+Lujain++H+Al-Smadi;A+passionate+Full-Stack+developer+from+Jordan)](https://git.io/typing-svg"  style="max-width: 100%;"></p>
+<!-- <h1 align="center">Hi 👋, I'm Lujain Hamed Al-Smadi</h1> -->
+<!-- <h3 align="center">A passionate Full-Stack developer from Jordan</h3> -->
 <p align="center">
     <img align="center" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%;">
 </p>
