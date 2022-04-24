@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lujain Hamed Al-Smadi</h1>
 <h3 align="center">A passionate Full-Stack developer from Jordan</h3>
+<p align="center">
+    <img align="center" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%;">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lujainhsmadi&label=Profile%20views&color=0e75b6&style=flat" alt="lujainhsmadi" /> </p>
 
@@ -21,6 +24,8 @@
 <a href="https://www.hackerearth.com/@lujain_masters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@lujain_masters" height="30" width="40" /></a>
 <a href="https://discord.gg/#0253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0253" height="30" width="40" /></a>
 </p>
+
+
 
 <table style="border: 3px groove rgb(56, 74, 209);">
     <tr>
