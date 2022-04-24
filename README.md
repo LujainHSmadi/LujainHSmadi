@@ -4,9 +4,9 @@
     <img align="center" src="https://github.com/Adam-pw/Adam-pw/raw/main/animation_500_kxa883sd.gif" alt="adam-pw" style="max-width: 100%;">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lujainhsmadi&label=Profile%20views&color=0e75b6&style=flat" alt="lujainhsmadi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lujainhsmadi&label=Profile%20views&color=0e75b6&style=flat" alt="lujainhsmadi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lujainhsmadi" alt="lujainhsmadi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lujainhsmadi" alt="lujainhsmadi" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, PHP, Laravel, React**
 
@@ -16,8 +16,8 @@
 
 - ⚡ Fun fact **I think I am Funny.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/lujain smadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lujain smadi" height="30" width="40" /></a>
 <a href="https://kaggle.com/lujainsmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lujainsmadi" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/lujain.hamed.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lujain.hamed.16/" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 </p>
 
 
-
+<p align="center">
 <table style="border: 3px groove rgb(56, 74, 209);">
     <tr>
         <th colspan="3">
@@ -74,7 +74,7 @@
      
 </tr>
 </table>
-
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lujainhsmadi&show_icons=true&locale=en&layout=compact" alt="lujainhsmadi" /></p>
 
