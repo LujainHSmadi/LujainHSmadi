@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lujainhsmadi" alt="lujainhsmadi" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, PHP, Laravel, React**
+- 🌱 I’m a Laravel Developer
 
 - 👨‍💻 All of my projects are available at [https://lnkd.in/ebtxENk8](https://lnkd.in/ebtxENk8)
 
